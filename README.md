@@ -1,4 +1,3 @@
-## CNT5106c Project Spring 2021
 
 
 Peer to Peer File distribution with choking and unchoking mechanism among peers using TCP 
